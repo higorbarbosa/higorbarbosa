@@ -15,3 +15,11 @@
 | ![image](https://user-images.githubusercontent.com/9197232/206925996-e46d763f-0a33-4974-b83f-26752f35ca71.png) | [Azure DevOps - Integração Contínua e Entrega Contínua](https://www.udemy.com/course/azuredevops/) - Curso Completo sobre a Plataforma de DevOps da Microsoft. |
 
 </details>
+
+<h3 align="left">Let's connect!:</h3>
+<p align="left">
+<a href="https://dev.to/higor" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="higor" height="30" width="40" /></a>
+<a href="https://twitter.com/higor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="cjkodare" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/higor-barbosa/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Higor Barbosa Linkedin" height="30" width="40" /></a>
+<a href="https://medium.com/@higorbarbosa.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@higorbarbosa.com" height="30" width="40" /></a>
+</p>
