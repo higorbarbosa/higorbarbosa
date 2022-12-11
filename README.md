@@ -5,7 +5,7 @@
 <details>
 <summary>My Udemy Course </summary>
 
-| Image |  Course |
+|  |  Course |
 |-----:|-----------|
 |![image](https://user-images.githubusercontent.com/9197232/206925594-f254cbe1-e1f9-4552-80ac-42335f725574.png)| [Azure Pipelines - CI/CD, Docker e Kubernetes no Azure DevOps](https://www.udemy.com/course/azurepipelines/) - Integração e Entrega Contínua com Azure DevOps usando Docker, Kubernetes, Infraestrutura como Código (IaC) e Database|
 | ![image](https://user-images.githubusercontent.com/9197232/206925601-885380f5-d125-417b-b4de-68ad53606205.png)| [Terraform no Azure - Infraestrutura como Código e DevOps](https://www.udemy.com/course/terraformazure/) - Provisionamento de Serviços e Recursos no Microsoft Azure com Hashicorp Terraform   |
