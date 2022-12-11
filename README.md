@@ -1,7 +1,6 @@
-### Hi there 👋
+### Hi there, I'm Higor Barbosa 👋
 
-
-**Enterprise Architecture Consultant | Tech Lead SRE | Software Architect | Azure & AWS Cloud Specialist | DevOps Engineer
+**Enterprise Architecture Consultant | Tech Lead SRE | Software Architect | Azure & AWS Cloud Specialist | DevOps Engineer**
 
 Here are some ideas to get you started:
 
